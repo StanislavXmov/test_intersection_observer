@@ -1,0 +1,30 @@
+.app {
+  max-width: 1280px;
+  height: auto;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.headerMain {
+  font-size: 32px;
+  color: #222222;
+}
+ .section {
+  width: 100%;
+  height: 1200px;
+  background: #535353;
+  border: 2px solid #222222;
+
+  color: #ffffff;
+  text-align: left;
+  font-size: 42px;
+}
+
+.banner {
+  padding: 12px;
+  width: 100%;
+}
